@@ -93,7 +93,7 @@ MarkupSafe==0.23
 matplotlib==3.2.1
 mccabe==0.6.1
 mistune==0.8.4
-mitmproxy==5.1.1
+mitmproxy==7.0.3
 mizani==0.6.0
 mysqlclient==1.4.6
 nbconvert==5.6.1
