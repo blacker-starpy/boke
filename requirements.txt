@@ -155,7 +155,7 @@ ruamel.yaml==0.16.10
 ruamel.yaml.clib==0.2.0
 scapy==2.4.3
 scipy==1.4.1
-Scrapy==2.0.1
+Scrapy==2.5.1
 scrapy-proxies==0.4
 scrapy-redis==0.6.8
 scrapy-redis-bloomfilter==0.7.0
